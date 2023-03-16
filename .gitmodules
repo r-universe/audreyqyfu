@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MRPC"]
+	path = MRPC
+	url = https://github.com/audreyqyfu/mrpc
+	shallow = true
+	registered = true
