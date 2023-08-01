@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cancerGI"]
-	path = cancerGI
-	url = https://github.com/cran/cancerGI
 [submodule "DIRECT"]
 	path = DIRECT
 	url = https://github.com/cran/DIRECT
 [submodule "MRPC"]
 	path = MRPC
 	url = https://github.com/audreyqyfu/mrpc
+[submodule "cancerGI"]
+	path = cancerGI
+	url = https://github.com/cran/cancerGI
 [submodule "noise"]
 	path = noise
 	url = https://github.com/cran/noise
