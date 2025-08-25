@@ -5,9 +5,6 @@
 [submodule "DIRECT"]
 	path = DIRECT
 	url = https://github.com/cran/DIRECT
-[submodule "MRPC"]
-	path = MRPC
-	url = https://github.com/audreyqyfu/mrpc
 [submodule "cancerGI"]
 	path = cancerGI
 	url = https://github.com/cran/cancerGI
